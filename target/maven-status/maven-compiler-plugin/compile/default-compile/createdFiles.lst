@@ -1,0 +1,8 @@
+cors\CorsRequestFilter.class
+entity\Flight.class
+entity\Flight_.class
+rest\FlightResource.class
+cors\CorsResponseFilter.class
+rest\ApplicationConfig.class
+data\DataGenerator.class
+utils\Tester.class
